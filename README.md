@@ -27,7 +27,7 @@
 
 ### 4.1 Criar conta Atlassian
 1. Acesse [site oficial do Jira](https://www.atlassian.com/br/software/jira)
-2. Clique em **Ou continue com [Microsoft]** e informe o e-mail institucional.  
+2. Clique uma conta no Jira.
 3. Complete a verificação e avance para a criação do site.  
 
 ### 4.2 Criar o site (*tenant*) Jira Cloud
