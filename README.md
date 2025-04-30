@@ -71,7 +71,7 @@
 |----------|-----------|
 | Exportação de bugs (.csv/.xlsx) | **Filters → Export**. |
 | Screenshot do board | Ferramenta de captura de tela do SO. |
-| Acesso de leitura ao professor | Convidar como usuário *Viewer*. |
+| Url do seu projeto no Jira | Convidar como usuário *Viewer*. |
 
 ## 8. Recursos de apoio
 - Guia de início rápido do Jira.  
